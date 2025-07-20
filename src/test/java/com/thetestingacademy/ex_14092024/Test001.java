@@ -1,6 +1,4 @@
-package com.thetestingacademy;
-
-import io.restassured.RestAssured;
+package com.thetestingacademy.ex_14092024;
 
 public class Test001 {
     public static void main(String[] args) {
